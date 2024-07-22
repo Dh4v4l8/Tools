@@ -16,4 +16,5 @@ echo $PATH
 ```
 ```
 go install -v github.com/projectdiscovery/pdtm/cmd/pdtm@latest
+pdtm -ia
 ```
