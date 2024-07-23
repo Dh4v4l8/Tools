@@ -19,6 +19,16 @@ go install -v github.com/projectdiscovery/pdtm/cmd/pdtm@latest
 pdtm -ia
 sudo rm /usr/bin/httpx
 ```
+## [assetfinder](https://github.com/tomnomnom/assetfinder)
+```
+sudo apt install git
+git --version
+sudo git clone https://github.com/tomnomnom/assetfinder.git
+go mod init assetfinder
+go build .
+sudo mv assetfinder /usr/local/bin/
+assetfinder
+```
 ## [httprobe](https://github.com/tomnomnom/httprobe)
 ## [waybackurls](https://github.com/tomnomnom/waybackurls/tree/master)
 ## [waymore](https://github.com/xnl-h4ck3r/waymore)
@@ -32,3 +42,7 @@ sudo pip3 install -r requirements.txt
 ```
 ## [gau](https://github.com/lc/gau)
 ## [gauplus](https://github.com/bp0lr/gauplus)
+## [gospider](https://github.com/jaeles-project/gospider)
+## [hakrawler](https://github.com/hakluke/hakrawler)
+## [ParamSpider](https://github.com/devanshbatham/ParamSpider)
+
