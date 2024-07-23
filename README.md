@@ -19,7 +19,7 @@ go install -v github.com/projectdiscovery/pdtm/cmd/pdtm@latest
 pdtm -ia
 sudo rm /usr/bin/httpx
 ```
-## [httprobe](https://github.com/tomnomnom/httprobe))
+## [httprobe](https://github.com/tomnomnom/httprobe)
 ## [waybackurls](https://github.com/tomnomnom/waybackurls/tree/master)
 ## [waymore](https://github.com/xnl-h4ck3r/waymore)
 ```
