@@ -20,3 +20,4 @@ pdtm -ia
 sudo rm /usr/bin/httpx
 ```
 ## [httprobe](https://tryhackme.com/room/linuxfundamentalspart3)
+## [waybackurls](https://github.com/tomnomnom/waybackurls/tree/master)
