@@ -19,7 +19,7 @@ go install -v github.com/projectdiscovery/pdtm/cmd/pdtm@latest
 pdtm -ia
 sudo rm /usr/bin/httpx
 ```
-## [httprobe](https://tryhackme.com/room/linuxfundamentalspart3)
+## [httprobe](https://github.com/tomnomnom/httprobe))
 ## [waybackurls](https://github.com/tomnomnom/waybackurls/tree/master)
 ## [waymore](https://github.com/xnl-h4ck3r/waymore)
 ```
@@ -30,3 +30,5 @@ cd waymore
 sudo python http://setup.py install
 sudo pip3 install -r requirements.txt
 ```
+## [gau](https://github.com/lc/gau)
+## [gauplus](https://github.com/bp0lr/gauplus)
