@@ -25,9 +25,9 @@ sudo rm /usr/bin/httpx
 ```
 Installation is straightforward:
 
-git clone https://github[.]com/xnl-h4ck3r/waymore.git
+git clone https://github.com/xnl-h4ck3r/waymore.git
 cd waymore
-sudo python http://setup.py install
+sudo python setup.py install
 sudo pip3 install -r requirements.txt
 ```
 ## [gau](https://github.com/lc/gau)
