@@ -21,3 +21,12 @@ sudo rm /usr/bin/httpx
 ```
 ## [httprobe](https://tryhackme.com/room/linuxfundamentalspart3)
 ## [waybackurls](https://github.com/tomnomnom/waybackurls/tree/master)
+## [waymore](https://github.com/xnl-h4ck3r/waymore)
+```
+Installation is straightforward:
+
+git clone https://github[.]com/xnl-h4ck3r/waymore.git
+cd waymore
+sudo python http://setup.py install
+sudo pip3 install -r requirements.txt
+```
