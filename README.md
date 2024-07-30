@@ -1,4 +1,11 @@
 # Tools
+## kali speedup
+```
+sudo cd /etc/apt/
+cat sources.list (replace http with https in the second link)
+sudo apt install apt-transport-https
+sudo apt upgrade
+```
 
 ## [PDTM](https://github.com/projectdiscovery/pdtm)
 ```
