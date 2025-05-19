@@ -53,3 +53,11 @@ sudo pip3 install -r requirements.txt
 ## [hakrawler](https://github.com/hakluke/hakrawler)
 ## [ParamSpider](https://github.com/devanshbatham/ParamSpider)
 
+## [kiterunner](https://github.com/assetnote/kiterunner/releases)
+
+```
+tar xf kiterunner_1.0.2_linux_amd64.tar.gz 
+sudo mv kr /opt/kr
+sudo ln -s /opt/kr /usr/local/bin/kr
+kr
+```
