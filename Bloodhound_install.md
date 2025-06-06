@@ -11,7 +11,7 @@ sudo usermod -aG docker $USER
 
 Install Bloodhound
 
-## download bloodhound docker compose file https://ghst.ly/get
+### download bloodhound docker compose file https://ghst.ly/get
 curl -L https://ghst.ly/getbhce > docker-compose.yml
 
 ##starting Bloodhound
