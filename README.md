@@ -64,3 +64,4 @@ kr
 ## [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
 ## [SecretFinder](https://github.com/m4ll0k/SecretFinder)
 ## [nowafpls](https://github.com/m4ll0k/nowafpls)
+## [git-dumper](https://github.com/arthaud/git-dumper)
