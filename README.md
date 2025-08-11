@@ -61,3 +61,5 @@ sudo mv kr /opt/kr
 sudo ln -s /opt/kr /usr/local/bin/kr
 kr
 ```
+## [LinkFinder](https://github.com/GerbenJavado/LinkFinder)
+## [SecretFinder](https://github.com/m4ll0k/SecretFinder)
