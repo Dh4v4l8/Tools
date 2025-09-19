@@ -10,5 +10,5 @@ wappalyzer
 ```
 Xnl Reveal 
 .git
-(jsrecon-buddy)[https://github.com/TheArqsz/JSRecon-Buddy]
 ```
+[jsrecon-budd](https://github.com/TheArqsz/JSRecon-Buddy)
